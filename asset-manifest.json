@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mubasshir-ansari.github.io/csb-9z6ip/static/css/main.c15f4ec7.chunk.css",
+    "main.js": "https://mubasshir-ansari.github.io/csb-9z6ip/static/js/main.60e0608e.chunk.js",
+    "main.js.map": "https://mubasshir-ansari.github.io/csb-9z6ip/static/js/main.60e0608e.chunk.js.map",
+    "runtime-main.js": "https://mubasshir-ansari.github.io/csb-9z6ip/static/js/runtime-main.b7f78e26.js",
+    "runtime-main.js.map": "https://mubasshir-ansari.github.io/csb-9z6ip/static/js/runtime-main.b7f78e26.js.map",
+    "static/js/2.d8fe7783.chunk.js": "https://mubasshir-ansari.github.io/csb-9z6ip/static/js/2.d8fe7783.chunk.js",
+    "static/js/2.d8fe7783.chunk.js.map": "https://mubasshir-ansari.github.io/csb-9z6ip/static/js/2.d8fe7783.chunk.js.map",
+    "index.html": "https://mubasshir-ansari.github.io/csb-9z6ip/index.html",
+    "static/css/main.c15f4ec7.chunk.css.map": "https://mubasshir-ansari.github.io/csb-9z6ip/static/css/main.c15f4ec7.chunk.css.map",
+    "static/js/2.d8fe7783.chunk.js.LICENSE.txt": "https://mubasshir-ansari.github.io/csb-9z6ip/static/js/2.d8fe7783.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f78e26.js",
+    "static/js/2.d8fe7783.chunk.js",
+    "static/css/main.c15f4ec7.chunk.css",
+    "static/js/main.60e0608e.chunk.js"
+  ]
+}
